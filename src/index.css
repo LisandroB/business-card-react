@@ -66,7 +66,7 @@ footer {
 
 .test1 h1{
   font-size: 40px;
-  margin: 3%;
+  margin: 10px;
 }
 
 .test1 a{
@@ -99,6 +99,8 @@ footer {
   background-color: #161619;
   width: 100%;
   margin-top: 5%;
+  border-bottom-left-radius: 5%;
+  border-bottom-right-radius: 5%;
 }
 
 .footer img {
@@ -109,4 +111,11 @@ footer {
 .colorcito {
   color: #F3BF99;
   font-weight: lighter;
+  margin: 0px;
+}
+
+.text {
+  text-align: start;
+  margin: 40px;
+  margin-top: 18px;
 }
